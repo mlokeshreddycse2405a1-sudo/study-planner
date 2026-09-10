@@ -42,6 +42,7 @@ This project will later be used to demonstrate a complete DevOps workflow, inclu
 6. Merge into main
 7. GitHub Pages deployment
 8. Jenkins CI automation
+9. Jenkins with Git integration to check for updates every 5 min
 
 This project is currently a frontend-only starter app and does not yet include Jenkins automation or deployment configuration.
 
